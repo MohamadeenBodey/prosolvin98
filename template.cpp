@@ -1,7 +1,6 @@
+//V.0.0.1
 #include <bits/stdc++.h>
-
 using namespace std;
-
 typedef long double   	  LD;
 typedef vector<int>       VI;
 typedef vector<double>    VD;
@@ -82,7 +81,3 @@ LL lcm(LL a, LL b) { return (a / gcd(a, b)) * b; }
 #define mem(ara,val) memset(ara,val,sizeof(ara))
 #define ssz(a) strlen(a)
 
-int main(){
-
-	return 0;
-}
